@@ -8,6 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.vscode/
+Lib/
+site-packages/
+share/
+Scripts/
 build/
 develop-eggs/
 dist/
