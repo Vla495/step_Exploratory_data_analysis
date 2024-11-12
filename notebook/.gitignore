@@ -13,6 +13,7 @@ Lib/
 site-packages/
 share/
 Scripts/
+report/
 build/
 develop-eggs/
 dist/
